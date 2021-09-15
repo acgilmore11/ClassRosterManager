@@ -1,7 +1,6 @@
 /** 
  *Name: Austin Gilmore 1216396051, Brandon McMillin 1216859943
- *Course ID: 70605 CSE360 Tu 9:00-10:15
- *Assignment: Final 360 Project
+ *Assignment: Final Project
  */
 
 import javax.swing.*;
